@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(
+int main()
     {
         float radius, area;
         const float pi = 3.14;
@@ -8,4 +8,3 @@ int main(
         printf("Area: %.2f\n",area);
         return 0;
     }
-)
