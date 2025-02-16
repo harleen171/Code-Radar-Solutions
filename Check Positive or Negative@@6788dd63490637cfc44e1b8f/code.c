@@ -1,5 +1,5 @@
 #include<stdio.h>
-ir=nt main(){
+int main(){
     int num;
     scanf("%d",&num);
     if(num>0){
@@ -7,6 +7,7 @@ ir=nt main(){
     }else if(num<0){
         printf("Negative");
     }else{
-        printf("Zero")
+        printf("Zero");
     }
+    return 0;
 }
