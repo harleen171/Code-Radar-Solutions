@@ -1,6 +1,6 @@
 #include<stdio.h>
 ir=nt main(){
-    int num1
+    int num;
     scanf("%d",&num);
     if(num>0){
         printf("Positive");
